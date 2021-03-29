@@ -1,4 +1,4 @@
-package com.example.springdemo.design.Proxy;
+package com.example.springdemo.design.proxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

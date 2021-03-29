@@ -1,8 +1,4 @@
-package com.example.springdemo.design.Proxy;
-
-import com.example.springdemo.interview.designpattern.company.Engineer;
-
-import java.lang.reflect.Proxy;
+package com.example.springdemo.design.proxy;
 
 public class ProxyPatternDemo {
     public static void main(String[] args) {

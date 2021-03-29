@@ -1,4 +1,4 @@
-package com.example.springdemo.design.Proxy;
+package com.example.springdemo.design.proxy;
 
 public class Engineerr {
     // 可以被代理

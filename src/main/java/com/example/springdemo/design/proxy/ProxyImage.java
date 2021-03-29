@@ -1,4 +1,4 @@
-package com.example.springdemo.design.Proxy;
+package com.example.springdemo.design.proxy;
 
 /**
  * 静态代理
