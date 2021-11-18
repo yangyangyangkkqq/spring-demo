@@ -24,6 +24,7 @@ public class TargetTest {
         // 调用private方法
         Method method1 = targetClass.getDeclaredMethod("privateMethod");
         method1.invoke(targetObject);
+
         // 修改参数
         Field field = targetClass.getDeclaredField("value");
         field.setAccessible(true);
